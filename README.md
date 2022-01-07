@@ -1,2 +1,2 @@
-# encoder
-Library for quadrature encoder 
+# QuadratureEncoder
+Arduino Quadrature Encoder
